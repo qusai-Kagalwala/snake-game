@@ -2,9 +2,12 @@
 
 A classic Snake Game built with Python's Turtle Graphics module! Control the snake to eat food, grow longer, and avoid collisions in this nostalgic arcade experience.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Turtle Graphics](https://img.shields.io/badge/Turtle-Graphics-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![Turtle](https://img.shields.io/badge/Turtle-Graphics-4CAF50?style=flat-square)
+![100 Days of Code](https://img.shields.io/badge/100%20Days%20of%20Code-Day%2021-FF6B35?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-2196F3?style=flat-square)
+
+**Day 21 of Angela Yu's 100 Days of Code Challenge** - Interactive turtle graphics games featuring keyboard controls and competitive racing!
 
 ## 🎮 Game Features
 
@@ -107,3 +110,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you enjoyed the game!** ⭐
+
+#Python #Game #TurtleGraphics #Snake #Arcade #Programming #100DaysOfCode
